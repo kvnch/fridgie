@@ -1,0 +1,1 @@
+/bin/sh -c cd /mnt/f/AndroidProjects/S09.05-Solution-MoreDetails/app/src/unirest-java && javac @/mnt/f/AndroidProjects/S09.05-Solution-MoreDetails/app/src/unirest-java/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler6916419698436646752arguments -J-Xmx512m -J-Xms128m
